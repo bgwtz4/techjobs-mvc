@@ -11,7 +11,7 @@ import java.util.HashMap;
  */
 @Controller
 public class HomeController {
-
+//Tech jobs home page//
     @RequestMapping(value = "")
     public String index(Model model) {
 
